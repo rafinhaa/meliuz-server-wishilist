@@ -1,0 +1,78 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "User 1", 
+      "cpf": "12345678901",
+      "birthDate": "01/01/2000", 
+      "email": "aa@aa.com",
+      "password": "123456"
+    },
+    {
+      "id": 2,
+      "name": "User 2", 
+      "cpf": "12345678902",
+      "birthDate": "02/02/2000", 
+      "email": "abc@abc.com",
+      "password": "123456"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "Product 1",
+      "price": 100.00,
+      "description": "Description 1",
+      "image":  "www.google.com"
+    },
+    {
+      "id": 3,
+      "name": "Product 3",
+      "price": 300.00,
+      "description": "Description 3",
+      "image":  "www.google.com",
+      "category": "qwqwqwq"
+    },
+    {
+      "id": 2,
+      "name": "Product 2",
+      "price": 200.00,
+      "description": "Description 2",
+      "image":  "www.google.com",
+      "category": "qwqwqwq"
+    }
+  ],
+  "wishlists": [
+    {
+      "id": 1,
+      "userId": 1,
+      "productId": 1
+    },
+    {
+      "id": 2,
+      "userId": 1,
+      "productId": 2
+    },
+    {
+      "id": 3,
+      "userId": 2,
+      "productId": 1
+    }
+  ],
+  "productsOnOffers": [
+    {
+      "id": 1,
+      "productId": 1,
+      "percentage": "10",
+      "startDate": "01/01/2000",
+      "endDate": "01/01/2000"
+    },
+    {
+      "id": 2,
+      "productId": 2,
+      "percentage": "20",
+      "startDate": "01/01/2000",
+      "endDate": "01/01/2000"
+    }
+  ]
+}
