@@ -23,7 +23,8 @@
       "name": "Product 1",
       "price": 100.00,
       "description": "Description 1",
-      "image":  "www.google.com"
+      "image":  "www.google.com",
+      "category": "Category 1"
     },
     {
       "id": 3,
