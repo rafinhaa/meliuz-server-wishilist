@@ -2,41 +2,41 @@
   "users": [
     {
       "id": 1,
-      "name": "User 1", 
+      "name": "User 1",
       "cpf": "12345678901",
-      "birthDate": "01/01/2000", 
+      "birthDate": "01/01/2000",
       "email": "aa@aa.com",
       "password": "123456"
     },
     {
       "id": 2,
-      "name": "User 2", 
+      "name": "User 2",
       "cpf": "12345678902",
-      "birthDate": "02/02/2000", 
+      "birthDate": "02/02/2000",
       "email": "abc@abc.com",
       "password": "123456"
     },
     {
       "id": 3,
-      "name": "User 3", 
+      "name": "User 3",
       "cpf": "12345678903",
-      "birthDate": "03/03/2000", 
+      "birthDate": "03/03/2000",
       "email": "123@456.com",
       "password": "123456"
     },
     {
       "id": 4,
-      "name": "User 4", 
+      "name": "User 4",
       "cpf": "12345678904",
-      "birthDate": "04/04/2000", 
+      "birthDate": "04/04/2000",
       "email": "456@789.com",
       "password": "123456"
     },
     {
       "id": 5,
-      "name": "User 5", 
+      "name": "User 5",
       "cpf": "12345678905",
-      "birthDate": "05/05/2000", 
+      "birthDate": "05/05/2000",
       "email": "789@101.com",
       "password": "123456"
     }
@@ -44,91 +44,50 @@
   "products": [
     {
       "id": 1,
-      "name": "Product 1",
-      "price": 100.00,
-      "description": "Description 1",
-      "image":  "https://picsum.photos/200",
+      "name": "Smart Tv Samsung 60 UHD 4K Crystal",
+      "price": 2599.00,
+      "description": "Duas vantagens que a Samsung Smart TV Crystal UHD possui e que com certeza vale a pena ressaltar: seu ambiente livre da confusão de cabos aparentes: a Crystal UHD apresenta uma solução de canaletas exclusiva que permite organizar os cabos e escondê-los. E a outra, a sua tela em Crystal UHD é a tela mais fina da categoria. Além disso, o controle remoto único reconhece todos os dispositivos compatíveis conectados a TV e passa a controlá-los também. E também, vale mencionar que a conexão Bluetooth ",
+      "image": "https://sipolatti.vteximg.com.br/arquivos/ids/182209-550-570/1-FRONTAL-GMILA-50PUG7625.png",
       "category": "Category 1"
     },
     {
       "id": 2,
-      "name": "Product 2",
-      "price": 200.00,
-      "description": "Description 2",
-      "image":  "https://picsum.photos/200",
+      "name": "Xbox Series X",
+      "price": 4349.00,
+      "description": "O Xbox Series X oferece taxas de quadro extraordinariamente estáveis de até 120 FPS com o pop visual de HDR. Mergulhe em personagens mais nítidos, mundos mais brilhantes e detalhes incríveis com o realismo do 4K.",
+      "image": "https://compass-ssl.xbox.com/assets/f0/85/f085c120-d3d5-4424-8b70-eb25deaa326e.png?n=XBX_A-BuyBoxBGImage01-D.png",
       "category": "Category 2"
     },
     {
       "id": 3,
-      "name": "Product 2",
-      "price": 300.00,
-      "description": "Description 3",
-      "image":  "https://picsum.photos/200",
+      "name": "iPhone 13",
+      "price": 6699.00,
+      "description": "O iPhone 13 tem uma tela superbrilhante projetada para ser resistente. Faz vídeos com qualidade de cinema. Seu chip tem uma velocidade impressionante. E ganhou um aumento notável em bateria.",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2021/09/iphone-13-produto-2-700x700.png",
       "category": "Category 3"
     },
     {
       "id": 4,
-      "name": "Product 4",
-      "price": 400.00,
-      "description": "Description 4",
-      "image":  "https://picsum.photos/200",
+      "name": "Macbook Air 13,3” Apple M1 8GB",
+      "price": 10926.57,
+      "description": "O chip M1 impulsiona o desempenho do notebook mais fino e leve da Apple. Encare qualquer projeto com a CPU de oito núcleos ultrarrápida. Com a GPU de até oito núcleos, suba o nível dos gráficos em games e apps. E acelere as tarefas de aprendizado de máquina com o Neural Engine de 16 núcleos. Tudo isso em um design sem ventoinha e com tempo de bateria impressionante: até 18 horas. MacBook Air. Portátil como sempre, só que muito mais potente.Avisos legaisÉ possível personalizar a configuração.",
+      "image": "https://a-static.mlcdn.com.br/618x463/macbook-air-133-apple-m1-8gb-512gb-ssd-dourado/magazineluiza/227625800/f5f54c5fba48f9ea65aaed345b975e76.jpg",
       "category": "Category 4"
     },
     {
       "id": 5,
-      "name": "Product 5",
-      "price": 500.00,
-      "description": "Description 5",
-      "image":  "https://picsum.photos/200",
+      "name": "Impressora Epson Ecotank L3250",
+      "price": 1208.07,
+      "description": "A Epson EcoTank L3250 é uma impressora multifuncional tanque de tinta 3 em 1 com conexão wireless destinada à famílias, estudantes, e profissionais. Oferece baixo custo de impressão graças ao sistema de EcoTank, que imprime até 4.500 páginas em preto e 7.500 páginas coloridas com cada kit de garrafas de reposição original. A tecnologia Heat-Free da Epson não requer aquecimento da tinta no processo, e com isso garante mais rapidez, economia de energia e confiabilidade à impressora.",
+      "image": "https://a-static.mlcdn.com.br/618x463/impressora-multifuncional-epson-ecotank-l3250-tanque-de-tinta-colorida-usb-wi-fi/magazineluiza/231776800/9af65f2b0a224acdfa86ac804507a0f4.jpg",
       "category": "Category 5"
     },
     {
       "id": 6,
-      "name": "Product 6",
-      "price": 600.00,
-      "description": "Description 6",
-      "image":  "https://picsum.photos/200",
-      "category": "Category 6"
-    },
-    {
-      "id": 7,
-      "name": "Product 7",
-      "price": 700.00,
-      "description": "Description 7",
-      "image":  "https://picsum.photos/200",
-      "category": "Category 7"
-    },
-    {
-      "id": 8,
-      "name": "Product 8",
-      "price": 800.00,
-      "description": "Description 8",
-      "image":  "https://picsum.photos/200",
-      "category": "Category 8"
-    },
-    {
-      "id": 9,
-      "name": "Product 9",
-      "price": 900.00,
-      "description": "Description 9",
-      "image":  "https://picsum.photos/200",
-      "category": "Category 9"
-    },
-    {
-      "id": 10,
-      "name": "Product 10",
-      "price": 1000.00,
-      "description": "Description 10",
-      "image":  "https://picsum.photos/200",
-      "category": "Category 10"
-    },
-    {
-      "id": 11,
-      "name": "Product 11",
-      "price": 1100.00,
-      "description": "Description 11",
-      "image": "https://picsum.photos/200",
-      "category": "Category 11"
+      "name": "iMac 27 polegadas",
+      "price": 24249.00,
+      "description": "O iMac de 27 polegadas vem carregado de apps e ferramentas poderosas para dar vida às suas maiores ideias. Ele encara qualquer tipo de tarefa com seus chips gráficos e processadores de altíssima velocidade, armazenamento flash e grande capacidade de memória. E, com recursos de áudio e vídeo avançados e a linda tela Retina 5K, seu trabalho vai brilhar, em todos os sentidos.",
+      "image": "https://www.notebookcheck.info/fileadmin/Notebooks/News/_nc3/imac.jpg"
     }
   ],
   "wishlists": [
@@ -144,93 +103,83 @@
     },
     {
       "id": 3,
-      "userId": 2,
-      "productId": 1
+      "userId": 1,
+      "productId": 3
     },
     {
       "id": 4,
       "userId": 2,
-      "productId": 2
+      "productId": 3
     },
     {
       "id": 5,
-      "userId": 3,
-      "productId": 1
+      "userId": 2,
+      "productId": 4
     },
     {
       "id": 6,
-      "userId": 3,
-      "productId": 2
+      "userId": 2,
+      "productId": 5
     },
     {
       "id": 7,
-      "userId": 4,
-      "productId": 1
+      "userId": 2,
+      "productId": 6
     },
     {
       "id": 8,
+      "userId": 3,
+      "productId": 1
+    },
+    {
+      "id": 9,
+      "userId": 3,
+      "productId": 3
+    },
+    {
+      "id": 10,
       "userId": 4,
       "productId": 2
     },
     {
-      "id": 9,
-      "userId": 5,
-      "productId": 5
-    },
-    {
-      "id": 10,
-      "userId": 5,
-      "productId": 5
-    },
-    {
       "id": 11,
-      "userId": 1,
-      "productId": 8
+      "userId": 4,
+      "productId": 5
     },
     {
       "id": 12,
-      "userId": 1,
-      "productId": 9
+      "userId": 4,
+      "productId": 6
     },
     {
       "id": 13,
-      "userId": 2,
-      "productId": 8
+      "userId": 5,
+      "productId": 1
     },
     {
       "id": 14,
-      "userId": 2,
-      "productId": 9
+      "userId": 5,
+      "productId": 2
     },
     {
       "id": 15,
-      "userId": 3,
-      "productId": 8
+      "userId": 5,
+      "productId": 3
     },
     {
       "id": 16,
-      "userId": 3,
-      "productId": 9
+      "userId": 5,
+      "productId": 4
     },
     {
       "id": 17,
-      "userId": 4,
-      "productId": 8
+      "userId": 5,
+      "productId": 5
     },
     {
       "id": 18,
-      "userId": 4,
-      "productId": 9
-    },
-    {
-      "id": 19,
       "userId": 5,
-      "productId": 8
-    },
-    {
-      "id": 20,
-      "userId": 5,
-      "productId": 9
+      "productId": 6
     }
   ],
   "productsOnOffers": [
